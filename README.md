@@ -1,6 +1,6 @@
 # Tank-Game
 
-## Created By: Miguel Yamamoto 
+## Created By: Miguel 
 
 This project was created using Intellig IDEA Ultimate using JDK 12.0.2
 The root of the repo is my source root
